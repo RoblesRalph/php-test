@@ -1,3 +1,7 @@
-<?php
-  echo "Welcome, <?php echo $_POST['name']; ?>!<br>";
-?>
+<html>
+<body>
+
+  <p>Hello, <?php echo $_POST["name"]; ?>!</p><br>
+
+</body>
+</html>
