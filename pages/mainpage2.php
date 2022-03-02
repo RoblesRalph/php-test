@@ -17,7 +17,7 @@
   ?>
   <br>
   <br>
-  <form action="mainpage.php" method="post">
+  <form action="mainpage2.php" method="post">
     <label for="name">Enter Your Name: </label> 
     <input type="text" name="name"><br>
     <button type="submit">Give a greeting</button>
